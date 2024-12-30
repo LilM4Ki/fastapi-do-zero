@@ -6,8 +6,8 @@ Curso de FastApi ministrado pelo @dunossauro.
 
 - [x] 00 - Apresentação do curso
 - [x] 01 - Configuração do ambiente de desenvolvimento
-- [ ] 02 - Introdução ao desenvolvimento WEB
-- [ ] 03 - Estruturando seu Projeto e Criando Rotas CRUD
+- [x] 02 - Introdução ao desenvolvimento WEB
+- [x] 03 - Estruturando seu Projeto e Criando Rotas CRUD
 - [ ] 04 - Configurando Banco de Dados e Gerenciando Migrações com Alembic
 - [ ] 05 - Integrando Banco de Dados a API
 - [ ] 06 - Autenticação e Autorização
